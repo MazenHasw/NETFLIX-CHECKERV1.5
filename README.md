@@ -77,6 +77,8 @@ TUTORIAL SETUP PHP AND ADDED ENVIRONMENT<br />
   Paste the apikey in the settings.ini file on the APIKEY line. <br />
   Paste the API in the settings.ini file on the API line. <br />
   Paste the TYPE_PROXY in the settings.ini file on the TYPE_PROXY line. <br />
+  Paste Lists in the list.txt file.<br />
+  Paste proxies in the proxy.txt file.<br />
 </p>
 
 ### Format Email
