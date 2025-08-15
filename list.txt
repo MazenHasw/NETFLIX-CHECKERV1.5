@@ -1,0 +1,3 @@
+PASTE YOUR LISTS HERE
+FORMAT => EMAIL:PASSWORD
+EXAMPLE => example@example.com:Test123

@@ -1,0 +1,6 @@
+PASTE YOUR PROXY HERE
+FORMAT PROXY => IP:PORT
+EXAMPLE => 127.0.0.1:80
+if your proxy need auth you can fill proxy like this 
+FORMAT => username:password@IP:PORT
+EXAMPLE => admin:admin123@127.0.0.1:80
