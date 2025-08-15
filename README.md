@@ -50,7 +50,7 @@ _Here's how to install the netflix checker._
 * Extract script checker
 * open CMD and running
 
-TUTORIAL SETUP PHP AND ADDED ENVIRONMENT
+TUTORIAL SETUP PHP AND ADDED ENVIRONMENT<br />
 [VIEW HERE](https://fellowtuts.com/php/run-php-from-command-line-in-windows-and-xampp/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -65,10 +65,24 @@ TUTORIAL SETUP PHP AND ADDED ENVIRONMENT
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## SETUP
+### APIKEY and API
+   ```sh
+   [SETTINGS]
+   APIKEY = PASTE YOUR APIKEY HERE
+   API = PASTE YOUR API HERE
+   TYPE_PROXY = HTTP
+   ```
+<p>
+  Paste the apikey in the settings.ini file on the APIKEY line. <br />
+  Paste the API in the settings.ini file on the API line. <br />
+  Paste the TYPE_PROXY in the settings.ini file on the TYPE_PROXY line. <br />
+</p>
+
 ### Format Email
 **Format Email:** `EMAIL:PASSWORD` → `example@example.com:Testing123`
 ### Format Proxy
-**Format proxy no auth:** `IP:PORT` → `127.0.0.1:80`
+**Format proxy no auth:** `IP:PORT` → `127.0.0.1:80`<br />
 **Format proxy with auth:** `username:password@IP:PORT` → `admin:admin123@127.0.0.1:80`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
